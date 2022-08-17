@@ -1,2 +1,2 @@
 # ANALISES
-Análises variadas com diferentes ferramentas
+Análises variadas com diferentes ferramentas utilizando Python.
